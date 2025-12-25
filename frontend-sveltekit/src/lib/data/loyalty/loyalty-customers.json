@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Сергей Мурзин",
+    "cardNumber": "421 856",
+    "balance": 8456,
+    "phone": "+7 (999) 123-45-67",
+    "totalPurchases": 47,
+    "totalSaved": 23450,
+    "qrCode": "99421856"
+  },
+  {
+    "id": 2,
+    "name": "Анна Петрова",
+    "cardNumber": "234 567",
+    "balance": 3210,
+    "phone": "+7 (999) 234-56-78",
+    "totalPurchases": 28,
+    "totalSaved": 15200,
+    "qrCode": "99234567"
+  },
+  {
+    "id": 3,
+    "name": "Иван Сидоров",
+    "cardNumber": "345 678",
+    "balance": 12500,
+    "phone": "+7 (999) 345-67-89",
+    "totalPurchases": 65,
+    "totalSaved": 38900,
+    "qrCode": "99345678"
+  },
+  {
+    "id": 4,
+    "name": "Мария Кузнецова",
+    "cardNumber": "456 789",
+    "balance": 560,
+    "phone": "+7 (999) 456-78-90",
+    "totalPurchases": 12,
+    "totalSaved": 4200,
+    "qrCode": "99456789"
+  },
+  {
+    "id": 5,
+    "name": "Дмитрий Волков",
+    "cardNumber": "567 890",
+    "balance": 18200,
+    "phone": "+7 (999) 567-89-01",
+    "totalPurchases": 89,
+    "totalSaved": 52100,
+    "qrCode": "99567890"
+  }
+]
